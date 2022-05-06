@@ -1,0 +1,21 @@
+
+[
+    {
+        "country": "Netherlands",
+        "urls": [
+            "https://www.tesla.com/nl_NL/inventory/used/ms?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/nl_NL/inventory/used/m3?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/nl_NL/inventory/used/mx?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/nl_NL/inventory/used/my?arrangeby=plh&zip=&range=0"
+        ]
+    },
+    {
+        "country": "Germany",
+        "urls": [
+            "https://www.tesla.com/de_DE/inventory/used/ms?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/de_DE/inventory/used/m3?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/de_DE/inventory/used/mx?arrangeby=plh&zip=&range=0",
+            "https://www.tesla.com/de_DE/inventory/used/my?arrangeby=plh&zip=&range=0"
+        ]
+    }
+]
